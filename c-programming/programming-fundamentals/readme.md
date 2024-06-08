@@ -4,3 +4,7 @@
 #### First Program
 
 #### Simple input/output
+
+### References
+
+- [C for everyone](https://www.coursera.org/learn/c-for-everyone/)
